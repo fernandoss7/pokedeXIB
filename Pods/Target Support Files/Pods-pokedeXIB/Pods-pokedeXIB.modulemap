@@ -1,0 +1,6 @@
+framework module Pods_pokedeXIB {
+  umbrella header "Pods-pokedeXIB-umbrella.h"
+
+  export *
+  module * { export * }
+}
